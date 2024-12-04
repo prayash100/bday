@@ -1,0 +1,4 @@
+Flask==2.2.5
+opencv-python==4.8.0.76
+pygame==2.5.0
+gunicorn==20.1.0
